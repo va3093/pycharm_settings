@@ -1,0 +1,283 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6.1 (/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/bin/python3.6)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Documents/conversation-service/src/nameko" />
+            <root type="simple" url="file:///usr/local/lib/python3.6/site-packages/newrelic-2.68.0.50" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1645354321" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/cur-test" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/cur-test/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cur-test/lib/python3.6/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/cur-test/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cur-test/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2017.1/python_stubs/581775659" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/currency_test" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/code/.virtualenvs/babylbot" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/code/.virtualenvs/babylbot/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/babylbot/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/babylbot/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/babylbot/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/babylbot/src/nameko" />
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/babylbot/lib/python3.6/site-packages/newrelic-2.78.0.57" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-384464139" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/python-babylbot-service" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/pytest-xdist-demo" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/pytest-xdist-demo/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pytest-xdist-demo/lib/python3.6/site-packages" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Documents/conversation-service/src/nameko" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/newrelic-2.68.0.50" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-173791656" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/pytest-xdist-demo" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/Documents/pa-docker/services/pa-aggregator-python/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/Documents/pa-docker/services/pa-aggregator-python/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/Documents/pa-docker/services/pa-aggregator-python/env/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1399178611" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/pa-docker/services/pa-aggregator-python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/orchestrator" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/orchestrator/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/orchestrator/lib/python3.6/site-packages" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Documents/conversation-service/src/nameko" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/newrelic-2.68.0.50" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-710679488" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/pa-docker/services/pa-orchestrator-python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/code/.virtualenvs/pa-questionnaire-python" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/code/.virtualenvs/pa-questionnaire-python/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/pa-questionnaire-python/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/pa-questionnaire-python/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/pa-questionnaire-python/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1180203746" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/pa-docker/services/pa-questionnaire-python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/code/.virtualenvs/babylon-python" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/code/.virtualenvs/babylon-python/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/babylon-python/lib/python3.6/site-packages" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Documents/conversation-service/src/nameko" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/newrelic-2.68.0.50" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-889372270" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/babylon-python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/code/.virtualenvs/questionnaire" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/code/.virtualenvs/questionnaire/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/questionnaire/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/questionnaire/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/code/.virtualenvs/questionnaire/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/243805117" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/pa-questionnaire-python" />
+    </jdk>
+  </component>
+</application>
