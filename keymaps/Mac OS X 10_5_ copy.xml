@@ -9,6 +9,9 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
