@@ -15,6 +15,9 @@
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
